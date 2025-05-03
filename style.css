@@ -83,6 +83,19 @@ body {
     margin-top: 40px;
 }
 
+.resume{
+    display: flex;
+    border-radius: 10px;
+    background-color: rgb(39, 77, 248);
+    color: whitesmoke;
+    width: 180px;
+    height: 30px;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+    margin: 5px auto;
+}
+
 .projects {
     margin-top: 20px;
     margin-bottom: 20px;
